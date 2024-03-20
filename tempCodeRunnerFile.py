@@ -1,1 +1,1 @@
-get("name1"))
+.write("Hi
